@@ -50,6 +50,6 @@ The case is an great example of precision oncology here. The cure can work due t
 
 * **THE FINAL ATTACK:** As the blocking mechanism has been switched off, the T-cell is now exposed. The T-cell will see the thousands of foreign neoantigens on the tumour. There is no ‘off switch’ meaning THE T-cell will launch a huge attack causing THE tumour to be completely eradicated. This is why Sascha and all the other patients had a 100% response rate.
 
-Immunotherapy does not work for most rectal cancers due to the mechanism above. The tumour will have a proficient Mismatch Repair system (pMMR). This means there is no defect in the repair system, low TMB and few neoantigens. This means that the IMMUNE system will see nothing foreign and THE drug will not have any effect.
+Immunotherapy does not work for most rectal cancers due to the mechanism above. The tumour will have a proficient Mismatch Repair system (pMMR). This means there is no defect in the repair system, low TMB and few neoantigens. This means that the immune system will see nothing foreign and the drug will not have any effect.
 
 ---
