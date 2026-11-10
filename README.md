@@ -31,3 +31,25 @@ She was not given any Chemotherapy, Radiotherapy or Surgery.
 After completing the 6 month treatment Sascha attended follow-up appointments. These included Endoscopy, PET scans and MRI scans. Her doctors could find any evidence of cancer. The tumour had completely disappeared! This meant she had achieved a 100% complete clinical response.
 
 This was not an isolated case. Every patient that joined the trial achieved the same result. As of June 2024, all 42 patients who have completed the treatment have achieved a 100% complete clinical response. None of them have experienced a relapse of cancer, some have been cancer free for up to 4 years. This amazing success has lead to the FDA granting Dostarlimab a "Breakthrough Therapy Designation" for the use of this drug.
+
+## 🧬 The Molecular Mechanism
+
+The case is an great example of precision oncology here. The cure can work due to the specific nature of the disease. The patient has a dMMR status. This means:
+
+* **The DEFECT:** The DNA repair system is defective. The cancer cell is Mismatch Repair Deficient (dMMR). The repair system does not function.
+
+* **THE RESULT:** Hypermutation, every time the cancer cell divides, there are thousands of errors/mutations. This causes hypermutation and a very high Tumor Mutational Burden.
+
+* **THE VULNERABILITY:** Foreign Neoantigens, The thousands of mutated genes are translated into thousands of mutated/bizarre/other proteins. This is known as Neoantigens.
+
+* **THE IMMUNE RESPONSE:** Hot Tumor, The patients immune system recognizes the thousands of Neoantigens as something foreign, such as a virus or bacteria. T-cells then attack the tumour by attacking in large numbers. This makes THE dMMR tumour hot.
+
+* **THE CANCER'S DEFENSE:** The Brake, The tumor defends itself by creating a shielding protein. This shielding protein is called PD-L1. The PD-L1 protein binds to THE PD-1 receptor on THE T-cell causing an immune checkpoint. This turns off THE T-cell to allow the cancer to survive.
+
+* **THE CURE:** Dostarlimab is an inhibitor of PD-1. The antibody will bind to THE T-cells and act as a piece of tape. This will block THE ‘don’t attack’ signal sent by the PD-L1 on the cancer cell.
+
+* **THE FINAL ATTACK:** As the blocking mechanism has been switched off, the T-cell is now exposed. The T-cell will see the thousands of foreign neoantigens on the tumour. There is no ‘off switch’ meaning THE T-cell will launch a huge attack causing THE tumour to be completely eradicated. This is why Sascha and all the other patients had a 100% response rate.
+
+Immunotherapy does not work for most rectal cancers due to the mechanism above. The tumour will have a proficient Mismatch Repair system (pMMR). This means there is no defect in the repair system, low TMB and few neoantigens. This means that the IMMUNE system will see nothing foreign and THE drug will not have any effect.
+
+---
